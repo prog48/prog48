@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prog48</h1>
-<h3 align="center">Profesional Desarrollador de bases de datos</h3>
+<h3 align="center">DATABASE DEVELOPER PROFESSIONAL</h3>
 
 - 🔭 I’m currently working on **NASA BD DNI EXTRATERRESTRES**
 
